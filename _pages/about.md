@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Welcome to Oluleke's personal website"
+title: "Welcome to Oluleke Babayomi's Professional Website"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
