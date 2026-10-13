@@ -8,11 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-Dr. Oluleke Babayomi has been working at the intersection of renewable energy technology, clean energy transition policy and entrepreneurship for over 15 years. He has held research positions at Korea Advanced Institute of Science and Technology (KAIST), Daejeon, South Korea, Shandong University, Jinan, China, and the National Space Research & Development Agency, Nigeria. His research focuses on digital sustainable energy/mobility technologies and equitable clean energy transition policy. He has published more than 70 peer-reviewed publications and several granted invention patents.<br>
+Dr. Oluleke Babayomi has been working at the intersection of renewable energy technology, clean energy transition policy and entrepreneurship for over 15 years. He has held technical positions at the Korea Advanced Institute of Science and Technology (KAIST), Daejeon; and Kumoh National Institute of Technology, Gumi, South Korea. He is an expert in the advanced control of semiconductor power electronics, trustworthy machine learning for sustainable power and energy systems, and equitable clean energy transition policy. He has published more than 75 peer-reviewed publications and several granted invention patents.<br>
 
 Oluleke is passionate about clean energy transition equity, and served as the Chair of Marketing for IEEE Smart Village, the flagship humanitarian program of the IEEE, N.J., USA, that has provided more than US$ 6 million seed funding to local entrepreneurs for productive use of renewable energy and technology in underserved communities around the world. He is also a contributing writer to the London School of Economics and Political Science Blog on the subject of clean energy transition for developing countries.<br>
 
-His business acumen was honed through four years of prior experience as an award-winning business relationship/sales manager to several engineering businesses at a leading Nigerian bank. Between 2009-2011, he was responsible for securing a total of US$ 55 million to finance investments of the bank in his clients' projects.<br>
+His business acumen was honed through four years of prior experience as an award-winning business relationship/sales manager to several engineering businesses at a leading Nigerian bank. Between 2009-2011, he was responsible for securing a total of US$ 55 million to finance investments of the bank in clients' projects.<br>
 
 Dr. Babayomi is a Fellow of the Nigerian Institute of Electrical and Electronic Engineers, Senior Member of IEEE, and has received several international awards for both innovation and excellence. He is also a Guest Associate Editor of IEEE Transactions on Power Electronics. He holds a Ph.D. in Electrical Engineering from Shandong University, Jinan, China, as well as M.Sc. and B.Sc. degrees in Electrical and Electronics Engineering from the University of Lagos, Akoka, Nigeria.  <br> 
 
@@ -20,6 +20,9 @@ Dr. Babayomi is a Fellow of the Nigerian Institute of Electrical and Electronic 
 
 ## 📰 *News*
 
+  
+  - <img src="https://img.shields.io/badge/Sep-2026-lightblue" alt = "Oct-2026" align="top"> Dr Babayomi was included in the Stanford/Elsevier-based list of the world's [top 2% researchers in Energy Technology](https://topscinet.com/scientist_profile/Babayomi,%20Oluleke/2013/?stype=single_year).
+  - <img src="https://img.shields.io/badge/Sep-2026-lightblue" alt = "Oct-2025" align="top"> Dr Babayomi joined the Tyndall National Institute, Ireland, as a member of technical staff.
   - <img src="https://img.shields.io/badge/Aug-2025-lightblue" alt = "Nov-2025" align="top"> Dr Babayomi is serving as a Guest associate editor for IEEE Transactions on Power Electronics Special Section on "Advanced Model Predictive Control for Resilient Converter-Dominated Electrical Grids" [link](https://www.ieee-pels.org/wp-content/uploads/2025/11/Adv-Model-Predictive-Control-for-Resilient-Converter-Dominated-Electrical-Grids.pdf)
   - <img src="https://img.shields.io/badge/Mar-2025-lightblue" alt = "Oct-2025" align="top"> Dr Babayomi served as PhD Forum Chair, 2025 IEEE PES/IAS PowerAfrica Conference, Cairo, Egypt
   - <img src="https://img.shields.io/badge/Mar-2024-lightblue" alt = "Aug-2025" align="top"> Dr Babayomi won the IEEE Power Electronics Society Ph.D. Thesis Talk Award
