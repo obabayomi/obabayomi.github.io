@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-UK"
-title                    : "Oluleke Babayomi / Personal Website"
+title                    : "Oluleke O. Babayomi / Professional Website"
 title_separator          : "-"
 name                     : &name "Oluleke Babayomi"
 description              : &description "personal description"
@@ -83,9 +83,8 @@ author:
   name             : "Oluleke Babayomi"
   avatar           : "Babayomi_Photo.png" # Edit later
   bio: "Researcher advancing digital power and grid tech"
-  location         : "Gyengbuk, South Korea"
-  employer         : "Kumoh National Institute of <br> 
-                      Technology"
+  location         : "Ireland"
+  employer         : "Tyndall National Institute"
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=voGhRhkAAAAJ&hl=en&oi=ao"
   email            : "babayomi@ieee.org"
